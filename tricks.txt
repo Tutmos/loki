@@ -1,0 +1,4 @@
+как да деактивирам рекламите в ютюб:
+в конзолата на хром:
+ctrl+shift+J
+document.cookie="VISITOR_INFO1_LIVE=oKckVSqvaGw; path=/; domain=.youtube.com";window.location.reload();
